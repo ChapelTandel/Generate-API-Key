@@ -1,0 +1,8 @@
+C:\Users\Chapel\source\repos\Generate API Key\bin\Debug\Generate API Key.exe.config
+C:\Users\Chapel\source\repos\Generate API Key\bin\Debug\Generate API Key.exe
+C:\Users\Chapel\source\repos\Generate API Key\bin\Debug\Generate API Key.pdb
+C:\Users\Chapel\source\repos\Generate API Key\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Chapel\source\repos\Generate API Key\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Chapel\source\repos\Generate API Key\obj\Debug\Generate API Key.csproj.CopyComplete
+C:\Users\Chapel\source\repos\Generate API Key\obj\Debug\Generate API Key.exe
+C:\Users\Chapel\source\repos\Generate API Key\obj\Debug\Generate API Key.pdb
