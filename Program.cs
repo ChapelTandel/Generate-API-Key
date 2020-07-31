@@ -1,5 +1,6 @@
 ﻿using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
+using System;
 using System.IO;
 
 namespace Generate_API_Key
@@ -9,7 +10,7 @@ namespace Generate_API_Key
         static void Main(string[] args)
         {
             JObject videogameRatings = new JObject(
-            new JProperty("ApiKey", "ThisIsASampleApiKey"));
+            new JProperty("ApiKey", Guid.NewGuid()));
 
             File.WriteAllText(@"videogames.json", videogameRatings.ToString());
 
